@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// Program that adds up the integers in array
+
 void sumNum(int numbers[5], int *result)
 {
     for (int i = 0; i < 5; i++)

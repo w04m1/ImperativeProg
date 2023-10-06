@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// Program that fills an array with zeros
+
 int main()
 {
     int n;

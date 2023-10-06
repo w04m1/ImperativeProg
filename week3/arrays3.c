@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// Program that finds the greatest number in array
+
 int main()
 {
     int nums[9] = {
