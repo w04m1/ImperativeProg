@@ -2,3 +2,4 @@ build
 testing
 .DS_Store
 .vscode
+*.dSYM
