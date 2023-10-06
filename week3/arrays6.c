@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// Program that swaps the greatest and the lowest integers in array.
+
 int main()
 {
     int nums[10] = {
