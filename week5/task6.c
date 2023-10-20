@@ -4,14 +4,19 @@
 // How can we calculate the size of the array from the pair of pointers?
 int getArrLen(int *fst, int *lst)
 {
+	// both average and len implemented
 	int len = 0;
+	// int sum = 0;
 	while (fst <= lst)
 	// if it goes out of list by one - we get huge result
 	// if it goes more - we get negative
 	{
+		// sum += *fst;
 		len++;
 		fst += 1;
 	}
+
+	// int average = sum / len;
 
 	return len;
 }
