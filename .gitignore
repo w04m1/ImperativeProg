@@ -5,3 +5,4 @@ testing
 *.dSYM
 *.py
 *.sh
+main.c
